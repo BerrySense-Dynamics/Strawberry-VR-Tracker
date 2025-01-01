@@ -20,4 +20,4 @@ Contributions are welcome! Whether you want to suggest improvements, report issu
 
 ## License
 
-This project is licensed under the [CC-BY-SA-4.0](LICENSE).
+This project is licensed under the [CC-BY-NC-SA-4.0](LICENSE).
